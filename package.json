@@ -1,6 +1,6 @@
 {
-  "name": "hexo-generator-multiple-podcast",
-  "version": "0.9.3",
+  "name": "hexo-generator-multiple-podcast-enhanced",
+  "version": "1.0.0",
   "description": "A Hexo generator that can generate multiple podcasts per blog",
   "files": [
     "lib/generator.js",
@@ -11,19 +11,19 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danieljsummers/hexo-generator-multiple-podcast.git"
+    "url": "https://github.com/Honey-Be/hexo-generator-multiple-podcast-enhanced.git"
   },
   "keywords": [
     "hexo",
     "podcast",
     "generator"
   ],
-  "author": "Daniel J. Summers <daniel@bitbadger.solutions> (https://bitbadger.solutions)",
+  "author": "윤병익 <yeun0908@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danieljsummers/hexo-generator-multiple-podcast/issues"
+    "url": "https://github.com/Honey-Be/hexo-generator-multiple-podcast-enhanced/issues"
   },
-  "homepage": "https://github.com/danieljsummers/hexo-generator-multiple-podcast#readme",
+  "homepage": "https://github.com/Honey-Be/hexo-generator-multiple-podcast-enhanced#readme",
   "private": false,
   "dependencies": {
     "nunjucks": "^3.0.1"
